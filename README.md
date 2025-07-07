@@ -1,4 +1,4 @@
-<!-- Qambar Abbas – AI/ML Engineer -->
+<!--Qambar Abbas – AI/ML Engineer-->
 
 # Hi, I’m **Qambar Abbas** 👋  
 ## AI/ML Engineer | Python • NLP • Deep Learning  
