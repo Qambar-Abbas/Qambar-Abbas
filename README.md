@@ -1,10 +1,4 @@
-<!--
-  README.md for Qambar Abbas – AI/ML Engineer
-  SEO Tips: 
-  - Include primary keywords in H1 and first paragraph
-  - Use descriptive alt text for badges
-  - Use meaningful heading text
--->
+<!-- Qambar Abbas – AI/ML Engineer -->
 
 # Hi, I’m **Qambar Abbas** 👋  
 ## AI/ML Engineer | Python • NLP • Deep Learning  
